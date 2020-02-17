@@ -1,7 +1,7 @@
 # DriteShop
 For request Systems , Bug fixes, Themes
 
-คุณสามาราถ Request ระบบ , แก้บัค ธีม
+คุณสามารถ Request ระบบ , แก้บัค ธีม
 ในแท็ป Issues
 
 # Contacts
