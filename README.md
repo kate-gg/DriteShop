@@ -1,5 +1,6 @@
 # DriteShop
-For request Systems , Bug fixes, Themes
+This repo is for feature/theme request and bug report from our users.
+Feel free to add one on the Issues tab
 
 คุณสามารถ Request ระบบ , แก้บัค ธีม
 ในแท็ป Issues
